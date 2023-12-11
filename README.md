@@ -2,7 +2,7 @@
 
 ## <u>Licenses</u>
 
-Free use of the Bot-IoT dataset for academic research purposes is hereby granted in perpetuity. Use for commercial purposes should be agreed by the authors. The authors have asserted their rights under the Copyright. To whom intent the use of the Bot-IoT dataset, the authors have to cite the following papers that has the dataset’s details:
+**<u>Bot-IoT:</u>** Free use of the Bot-IoT dataset for academic research purposes is hereby granted in perpetuity. Use for commercial purposes should be agreed by the authors. The authors have asserted their rights under the Copyright. To whom intent the use of the Bot-IoT dataset, the authors have to cite the following papers that has the dataset’s details:
 
 <br>Koroniotis, Nickolaos, Nour Moustafa, Elena Sitnikova, and Benjamin Turnbull. "Towards the development of realistic botnet dataset in the internet of things for network forensic analytics: Bot-iot dataset." Future Generation Computer Systems 100 (2019): 779-796. Public Access Here.
 <br>Koroniotis, Nickolaos, Nour Moustafa, Elena Sitnikova, and Jill Slay. "Towards developing network forensic mechanism for botnet activities in the iot based on machine learning techniques." In International Conference on Mobile Networks and Management, pp. 30-44. Springer, Cham, 2017.
@@ -12,9 +12,9 @@ Free use of the Bot-IoT dataset for academic research purposes is hereby granted
 <br>Koroniotis, Nickolaos. "Designing an effective network forensic framework for the investigation of botnets in the Internet of Things." PhD diss., The University of New South Wales Australia, 2020.
 
 
-<br>You may redistribute, republish, and mirror the NSL-KDD dataset in any form. However, any use or redistribution of the data must include a citation to the NSL-KDD dataset and the paper referenced below.
+**<u>NSL-KDD:</u>**You may redistribute, republish, and mirror the NSL-KDD dataset in any form. However, any use or redistribution of the data must include a citation to the NSL-KDD dataset and the paper referenced below.
 <br>References: [1] M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set,” Submitted to Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), 2009.
-
+<br>
 
 ## <u>Datasets</u>
 
